@@ -41,7 +41,7 @@ useEffect(()=>{
 },[])
 
   return (
-    <div className="w-screen aspect-video h-96 absolute bg-gradient-to-b from-black z-20 flex justify-between">
+    <div className="h-96 w-screen absolute bg-gradient-to-b from-black z-20 flex justify-between">
       <img
         className="w-44 h-20"
         src="https://cdn.cookielaw.org/logos/dd6b162f-1a32-456a-9cfe-897231c7763c/4345ea78-053c-46d2-b11e-09adaef973dc/Netflix_Logo_PMS.png"
